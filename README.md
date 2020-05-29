@@ -1,2 +1,4 @@
 # hello-world
-Demo repo am using to learn about GitHub
+Demo repository am using to learn about collaboration.
+
+This is the second attempt. Hopefully I don't mess this up.
