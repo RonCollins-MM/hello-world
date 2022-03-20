@@ -11,3 +11,6 @@ This is the second attempt. Hopefully I don't mess this up.
 
 Second attempt successful. This is the final version merging both pull requests.
 
+20th March 2022. It is now about 7 years since I last did some serious coding.
+But now am back and hopefully here to stay.
+
