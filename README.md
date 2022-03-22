@@ -14,3 +14,4 @@ Second attempt successful. This is the final version merging both pull requests.
 20th March 2022. It is now about 7 years since I last did some serious coding.
 But now am back and hopefully here to stay.
 
+22nd of March, 2022. Writing some lines to try out the 'git diff' command.
